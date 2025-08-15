@@ -21,6 +21,7 @@ lint:
     - dotenv-linter
     - checkov
     - prettier
+    - convex/_generated/**
   enabled:
     - biome@1.9.4
     - actionlint@1.7.7

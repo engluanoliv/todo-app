@@ -39,6 +39,6 @@
     }
   },
   "files": {
-    "ignore": ["scripts/*.js"]
+    "ignore": ["scripts/*.js", "convex/_generated/*.d.ts"]
   }
 }
