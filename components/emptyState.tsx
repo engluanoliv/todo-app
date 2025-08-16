@@ -11,7 +11,7 @@ function EmptyState() {
     <View style={homeStyles.emptyContainer}>
       <LinearGradient
         colors={colors.gradients.empty}
-        style={homeStyles.emptyContainer}
+        style={homeStyles.emptyIconContainer}
       >
         <Ionicons name='clipboard-outline' size={60} color={colors.textMuted} />
       </LinearGradient>
